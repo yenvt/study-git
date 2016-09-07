@@ -1,0 +1,5 @@
+Day la huong dan su dung git
+Khi tạo xong nó sẽ dẫn bạn tới trang hướng dẫn làm việc với kho chứa vừa tạo. Và kho chứa của bạn bây giờ sẽ có địa chỉ là 
+https://github.com/$user-name/$repository, ví dụ https://github.com/thachphamblog/hoc-git.
+
+Việc của bạn bây giờ là hãy clone cái kho chứa này về máy của mình bằng lệnh git clone địa_chỉ.
